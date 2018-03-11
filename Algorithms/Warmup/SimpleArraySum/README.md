@@ -2,4 +2,4 @@
 
 [Link to HackerRank](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 
-[Problem Statement](ProblemStatement/simple-array-sum-ENGLISH.pdf)
+[Problem Statement](ProblemStatement/simple-array-sum-English.pdf)
