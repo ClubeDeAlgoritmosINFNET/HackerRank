@@ -13,7 +13,6 @@ def staircase(n):
         hashesCount += 1
         print(blankCount*blank + hashesCount*hashChar)
 
-
 if __name__ == "__main__":
     n = int(input().strip())
     staircase(n)
