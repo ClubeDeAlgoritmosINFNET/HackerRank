@@ -12,4 +12,3 @@ def timeConversion(s):
 s = input().strip()
 result = timeConversion(s)
 print(result)
-a
