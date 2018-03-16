@@ -5,7 +5,7 @@ using System.Linq;
 class Solution {
 
     static int[] solve(int a0, int a1, int a2, int b0, int b1, int b2){
-          int[] alice = new int[] { a0, a1, a2 };
+            int[] alice = new int[] { a0, a1, a2 };
             int[] bob = new int[] { b0, b1, b2 };
             int aliceScore = 0;
             int bobScore = 0;
