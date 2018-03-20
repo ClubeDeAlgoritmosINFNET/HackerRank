@@ -35,6 +35,7 @@ class Solution {
         }else{
             return 0;
         }
+
     }
 
     static void Main(String[] args) {
@@ -49,6 +50,5 @@ class Solution {
         int[] result = solve(a0, a1, a2, b0, b1, b2);
         Console.WriteLine(String.Join(" ", result));
         
-
     }
 }

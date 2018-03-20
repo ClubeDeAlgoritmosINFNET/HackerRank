@@ -2,14 +2,16 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+
 class Solution {
 
     static long aVeryBigSum(int n, long[] ar) {
-        long total = 0;
-        foreach(var valor in ar){
-            total += valor;         
-        }
-        return total;
+        long sum = 0;
+            foreach(long x in ar)
+            {
+                sum += x;
+            }
+            return sum;
     }
 
     static void Main(String[] args) {
