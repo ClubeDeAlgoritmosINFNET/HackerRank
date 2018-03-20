@@ -1,4 +1,0 @@
-[17-Mar-2018 12:39:01 UTC] PHP Notice:  Undefined variable: ar in /home/ubuntu/workspace/HackerRank/algorithms/Warmup/2-SimpleArraySum/Solutions/php.php on line 9
-[17-Mar-2018 12:39:01 UTC] PHP Notice:  Undefined variable: ar in /home/ubuntu/workspace/HackerRank/algorithms/Warmup/2-SimpleArraySum/Solutions/php.php on line 4
-[17-Mar-2018 12:39:01 UTC] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/ubuntu/workspace/HackerRank/algorithms/Warmup/2-SimpleArraySum/Solutions/php.php on line 4
-[17-Mar-2018 12:39:48 UTC] PHP Notice:  Undefined variable: ar in /home/ubuntu/workspace/HackerRank/algorithms/Warmup/2-SimpleArraySum/Solutions/php.php on line 9
