@@ -9,6 +9,4 @@
     $arr = array_map('trim', explode(' ', $arr)); //removing whitespaces and turn the elements in an array
     echo simpleArraySum($n, $arr); //showing the sum of the array, calling the function simpleArraySum() and passing the parametres
     
-
-
 ?>
